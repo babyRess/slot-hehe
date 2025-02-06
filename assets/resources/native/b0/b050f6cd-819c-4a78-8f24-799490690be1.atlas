@@ -1,0 +1,111 @@
+
+skull_spine.png
+size: 1397, 523
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+Black Beard
+  rotate: false
+  xy: 2, 17
+  size: 472, 46
+  orig: 474, 48
+  offset: 1, 1
+  index: -1
+Black Beard_fire
+  rotate: false
+  xy: 796, 468
+  size: 530, 53
+  orig: 530, 53
+  offset: 0, 0
+  index: -1
+Black Beard_fire_1
+  rotate: false
+  xy: 1023, 6
+  size: 170, 132
+  orig: 170, 132
+  offset: 0, 0
+  index: -1
+Black Beard_fire_2
+  rotate: false
+  xy: 742, 15
+  size: 279, 135
+  orig: 279, 135
+  offset: 0, 0
+  index: -1
+Layer 74
+  rotate: true
+  xy: 1078, 140
+  size: 156, 94
+  orig: 156, 94
+  offset: 0, 0
+  index: -1
+Layer 74 copy
+  rotate: true
+  xy: 1320, 62
+  size: 135, 72
+  orig: 135, 72
+  offset: 0, 0
+  index: -1
+Slotmachine
+  rotate: false
+  xy: 476, 2
+  size: 218, 61
+  orig: 226, 69
+  offset: 4, 4
+  index: -1
+Slotmachine_fire
+  rotate: true
+  xy: 1193, 199
+  size: 267, 139
+  orig: 267, 139
+  offset: 0, 0
+  index: -1
+carpet
+  rotate: false
+  xy: 2, 65
+  size: 738, 105
+  orig: 738, 105
+  offset: 0, 0
+  index: -1
+fire
+  rotate: false
+  xy: 2, 172
+  size: 792, 349
+  orig: 792, 349
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 796, 152
+  size: 280, 144
+  orig: 280, 144
+  offset: 0, 0
+  index: -1
+skull_head
+  rotate: false
+  xy: 1195, 50
+  size: 123, 147
+  orig: 132, 178
+  offset: 3, 29
+  index: -1
+skull_mouth
+  rotate: true
+  xy: 1334, 438
+  size: 83, 61
+  orig: 114, 62
+  offset: 14, 1
+  index: -1
+skull_ribb
+  rotate: true
+  xy: 1195, 11
+  size: 37, 136
+  orig: 37, 136
+  offset: 0, 0
+  index: -1
+sword
+  rotate: false
+  xy: 796, 298
+  size: 395, 168
+  orig: 414, 219
+  offset: 16, 32
+  index: -1
